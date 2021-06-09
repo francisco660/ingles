@@ -1,0 +1,68 @@
+
+
+.nombre{
+    
+    border-radius: 1em;
+    margin:10px;
+}
+
+.correo{
+    
+   
+    border-radius: 1em;
+    margin:10px;
+}
+
+.contrasena{
+    
+ 
+    border-radius: 1em;
+    margin:10px;
+}
+
+.text{
+    height: 10%;
+    width: 10%;
+
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: url(imag/regalo.jpeg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+    .save{
+        height: 10%;
+        width: 10%;
+        background:rgb(235, 59, 59);
+        border-radius: 1em;
+        
+    }
+
+    .fullname{
+       background: rgb(245, 150, 182);
+       color:white;
+    }
+    .email{
+        background:rgb(245, 150, 182) ;
+        color:white;
+     }
+     .password{
+        background: rgb(245, 150, 182);
+        color:white;
+     }
+     .phone{
+        background:rgb(245, 150, 182);
+        color: white;
+     }
+   
+.formulary{
+    height: 10%;
+    width: 30%;
+    margin: 1em;
+    border-radius: 1em;
+    background: rgb(175, 143, 143);
+}
