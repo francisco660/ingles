@@ -29,7 +29,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    background: url(imag/regalo.jpeg);
+    background: url(regalo.jpeg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -65,4 +65,7 @@ body{
     margin: 1em;
     border-radius: 1em;
     background: rgb(175, 143, 143);
+}
+.fondo{
+    background: white;
 }
